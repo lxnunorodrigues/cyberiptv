@@ -12,5 +12,5 @@ http://noscdn1.connectedviews.com:1935/live/sic.stream/chunklist_w1329392400.m3u
 #EXTINF:-1 tvg-name="TVI.pt" audio-track="pt" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/operator/tvi.png?download=true" group-title="GENERALISTAS",TVI [ NOS HD ]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/operator/tvi.png?download=true" group-title="WRADIO",SILVER RADIO
+#EXTINF:-1 tvg-logo="https://scontent.flis2-1.fna.fbcdn.net/v/t1.0-9/18403095_607549282773107_894349112506640746_n.png?oh=9b7549017019735a56aba98f05d05fd8&oe=59EBC13C" group-title="WRADIO",SILVER RADIO
 http://b0ne.dtdns.net/listen.pls?sid=1
