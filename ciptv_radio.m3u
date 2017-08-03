@@ -1,0 +1,166 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo=https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/tsf.png?download=true" tvg-name=""  group-title="Radio FM",TSF | MP3 64 Kbps - Lisboa
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/rr.png?download=true" tvg-name=""  group-title="Radio FM",Radio Renascença | AAC 48 Kbps - Lisboa
+http://19613.live.streamtheworld.com/RADIO_RENASCENCAAAC
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/rfm.png?download=true" tvg-name=""  group-title="Radio FM",RFM | AAC 48 Kbps - Lisboa
+http://19593.live.streamtheworld.com/GR80SRFMAAC_SC
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/megahits.png?download=true" tvg-name=""  group-title="Radio FM",Mega Hits | AAC 48 Kbps - Lisboa
+http://19553.live.streamtheworld.com/MEGA_HITSAAC_SC
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/orbitalfm.png?download=true" tvg-name=""  group-title="Radio FM",Radio Orbital | MP3 128 Kbps - Lisboa
+http://centova.radios.pt:8401/stream
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/kissfm.png?download=true" tvg-name=""  group-title="Radio FM",Kiss FM | AAC 128 Kbps - Albufeira
+http://213.239.218.99:7104/stream
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/comercial.png?download=true" tvg-name="C"  group-title="Radio FM",Comercial | ? Kbps - Lisboa
+http://mcrscast.mcr.iol.pt/comercial.mp3
+
+#EXTINF:0 tvg-id="-" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/sim.png?download=true" tvg-name=""  group-title="Radio FM",Sim | AAC 48 Kbps - Lisboa
+http://62.48.143.117/RADIO_SIM_SC
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/m80.png?download=true" tvg-name=""  group-title="Radio FM",M80 | AAC 128 Kbps - Lisboa
+http://19073.live.streamtheworld.com:3690/M80RADIO_SC
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/novaera.png?download=true" tvg-name=""  group-title="Radio FM",NOVA ERA | MP3 128 Kbps  - Vila nova de Gaia
+http://stream.radio.com.pt:9478/stream
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/94fm.png?download=true" tvg-name=""  group-title="Radio FM",94 FM | MP3 128 Kbps - Leiria
+http://195.8.58.150:35022/stream/1/
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/superfm.png?download=true" tvg-name=""  group-title="Radio FM",SUPER FM | MP3 128 Kbps - Setubal
+http://94.23.76.235:9956/
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/hiperfm.png?download=true" tvg-name=""  group-title="Radio FM",HIPER FM | MP3 192 Kbps - Rio Maior
+http://85.25.73.243:10460/
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/antena1.png?download=true" tvg-name=""  group-title="Radio FM",Antena 1 | WMA 32 Kbps - Lisboa
+http://radiocast.rtp.pt/antena180a.mp3
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/antena2.png?download=true" tvg-name=""  group-title="Radio FM",Antena 2 | WMA 32 Kbps - Lisboa
+http://radiocast.rtp.pt/antena280a.mp3
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/antena3.png?download=true" tvg-name=""  group-title="Radio FM",Antena3 | WMA 32 Kbps - Lisboa
+http://radiocast.rtp.pt/antena380a.mp3
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/vodafonefm.png?download=true" tvg-name="Vodafone FM"  group-title="Radio FM",Vodafone FM - Lisboa
+rtmp://mcrwowza4.mcr.iol.pt/vodafonelc/ playpath=vodafonelc.sdp swfUrl=http://vodafone.fm/scripts/vendor/soundmanager/swf/soundmanager2_flash9.swf live=1 pageUrl=http://vodafone.fm/player
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/mmusic.png?download=true" tvg-name=""  group-title="Radio FM",MEO Music | MP3 128 Kbps - Lisboa
+http://centova.radios.pt:8495
+
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/marginal.png?download=true" tvg-name=""  group-title="Radio FM",Marginal | MP3 128 Kbps - Lisboa
+http://centova.radios.pt:8499/
+
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/radar.jpg?download=true" tvg-name=""  group-title="Radio FM",Radar | MP3 128 Kbps - Lisboa
+http://centova.radios.pt:8497/
+
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/atlantida.png?download=true" tvg-name=""  group-title="Radio FM",Atlantida | MP3 192 Kbps - S.Miguel
+http://94.23.76.235:9926/
+
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/cfm.jpg?download=true" tvg-name=""  group-title="Radio FM",Canal FM | MP3 128 Kbps - Ponta Delgada
+http://centova.radio.com.pt:9466/
+
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/rdn.png?download=true" tvg-name=""  group-title="Radio FM",Douro Nacional | MP3 128 Kbps - Lamego
+http://94.23.76.235:9996/
+
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/fmradio/amalia.png?download=true" tvg-name=""  group-title="Radio FM",Amalia | MP3 128 Kbps - Lisboa
+http://centova.radios.pt:9496
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##########################################################################################################################################################
+################################################################ / RADIO PT ###############################################################################
+##########################################################################################################################################################
+
+==================================================================================================================================================================================================================
+
+=#########################################################################################################################################################
+=############################################################### WEB RAD PT ##############################################################################
+=#########################################################################################################################################################
+
+
+
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/wradio/radiobraga.jpg?download=true" tvg-name="Radio Braga Web - MP3 | 128kbps - Braga"  group-title="WEB RADIO",Radio Braga Web - MP3 | 128kbps - Braga
+http://ample-02.radiojar.com/0kzmnspqr8vtv?rj-ttl=5&rj-token=AAABWo_L9FHgXhBgsJz_zHA8HDfUUhyEZpr8GQnZEVNWp5z93qKVoA
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/wradio/radiosaturno.png?download=true" tvg-name="Radio Saturno - MP3 | 128kbps - Lisboa"  group-title="WEB RADIO",Radio Saturno - MP3 | 128kbps - Lisboa
+http://radiosaturno.dyndns.org:8000/
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/wradio/cascaisnet.png?download=true" tvg-name="Cascais Net Radio - MP3 | 128kbps - Cascais"  group-title="WEB RADIO",Cascais Net Radio - MP3 | 128kbps - Cascais
+http://185.32.188.17:8009/stream
+
+
+##########################################################################################################################################################
+################################################################ / WEB RAD PT ############################################################################
+##########################################################################################################################################################
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="http://allaboutwindowsphone.com/images/appicons/80096.png" tvg-name=""  group-title="Group N/A",Adult ? adultcyberiptv.vai.la
+https://cld.pt/dl/download/dda77b31-ece9-45ff-ba89-72536222a3a7/VODINTRO.mp4?download=true
